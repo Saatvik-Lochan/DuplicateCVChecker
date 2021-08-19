@@ -2,7 +2,7 @@
 A simple checker through which you can upload and check CVs against a database for duplicates using winnowing and document fingerprinting. Comes with a simple GUI.
 
 # Installation
-You can download the pyinstaller dist from [here](https://drive.google.com/file/d/1ajumbsYsmlJGhDya8Hr5x8v8b1T7ogHa/view?usp=sharing).
+You can download the pyinstaller dist from [here](https://drive.google.com/file/d/16CpzKohbkO4xrq7n6BBE8G_Aim9guC8J/view?usp=sharing).
 Then extract the .zip to wherever you choose
 
 # Usage
